@@ -1,1 +1,9 @@
-# advent-of-code-2021
+advent
+=====
+
+An OTP library
+
+Build
+-----
+
+    $ rebar3 compile
